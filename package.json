@@ -15,7 +15,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "date-fns": "^1.28.5",
-    "nuxt": "^1.0.0-rc3",
+    "nuxt": "^1.4.5",
     "tachyons": "^4.7.4",
     "url": "^0.11.0"
   },
